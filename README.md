@@ -1,4 +1,4 @@
 # firstrepo
 This is my first git repo
 <br>
-Author - Tanish Grag
+Author - Tanish Garg
